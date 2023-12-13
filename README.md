@@ -6,6 +6,10 @@
 <br><br>
 🇧🇷 - Para download das EFIs BASEs, é necessário você ser membro de qualquer categoria no canal do YouTube e conectar seu Discord à sua conta YouTube para acesso à sala `#efi-base`;
 
+![youtube_connection](https://github.com/luchina-gabriel/BASE-EFI-INTEL-DESKTOP-3RDGEN-IVY-BRIDGE-PUBLIC/assets/23700365/3bc4a72c-35fb-40a7-a740-734046618414)
+<br>
+![efi-base-channel](https://github.com/luchina-gabriel/BASE-EFI-INTEL-DESKTOP-3RDGEN-IVY-BRIDGE-PUBLIC/assets/23700365/15c26ca1-16ed-4f9b-bf6e-54cd37cb67e8)
+
 # Basic Info
 
 Note|Description
