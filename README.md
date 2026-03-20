@@ -23,9 +23,9 @@ Note|Description
 Initial macOS Support|OS X 10.7, Lion.
 Last Supported OS|macOS 11, Big Sur.
 
-- Opencore version: 1.0.6
-- Release date (OC/Kexts): 03/11/2025
-- Last Update Repository: 05/03/2026
+- Opencore version: 1.0.7
+- Release date (OC/Kexts): 20/03/2026
+- Last Update Repository: 20/03/2026
 
 # Basic Steps
 
